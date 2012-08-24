@@ -1,0 +1,16 @@
+[Adblock Plus 1.1]
+! Title: NT AdBlock List
+! Last modified: 24 Aug 2012 0:00 UTC
+! Expires: 7 days (update frequency)
+! Homepage: http://www.twoslashes.com/
+
+!!! Twitter
+twitter.com##div[data-component-term="user_recommendations"]
+twitter.com##div[data-component-term="trends"]
+
+!!! Facebook
+facebook.com###pagelet_ego_pane_w
+
+!!! Annoyances
+!!! Tynt Clipboard Hijacker
+||tynt.com/javascripts/*
