@@ -3,6 +3,7 @@
 ! Last modified: 24 Aug 2012 0:00 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
+! Hg Repository: http://dev.twoslashes.com/nt-adblock-rules
 
 !!! Twitter
 twitter.com##div[data-component-term="user_recommendations"]
