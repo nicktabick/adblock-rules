@@ -11,6 +11,7 @@ twitter.com##div[data-component-term="trends"]
 
 !!! Facebook
 facebook.com###pagelet_ego_pane_w
+facebook.com###pagelet_chat
 
 !!! Annoyances
 !!! Tynt Clipboard Hijacker
