@@ -14,5 +14,9 @@ facebook.com###pagelet_ego_pane_w
 facebook.com###pagelet_chat
 
 !!! Annoyances
+
 !!! Tynt Clipboard Hijacker
 ||tynt.com/javascripts/*
+
+!!! Meebo (Bottom Bar/Drag-to-Share)
+||cim.meebo.com/*
