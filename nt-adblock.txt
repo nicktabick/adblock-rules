@@ -20,3 +20,6 @@ facebook.com###pagelet_chat
 
 !!! Meebo (Bottom Bar/Drag-to-Share)
 ||cim.meebo.com/*
+
+!!! PunchTab Rewards System
+||static.punchtab.com/*
