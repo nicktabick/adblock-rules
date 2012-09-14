@@ -1,13 +1,16 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 13 Sep 2012 0:00 UTC
+! Last modified: 14 Sep 2012 0:00 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Hg Repository: http://dev.twoslashes.com/adblock-rules
 
 !!! Twitter
-twitter.com##div[data-component-term="user_recommendations"]
-twitter.com##div[data-component-term="trends"]
+twitter.com##.trends
+twitter.com##.wtf-module
+! Temporarily Retained
+!twitter.com##div[data-component-term="user_recommendations"]
+!twitter.com##div[data-component-term="trends"]
 
 !!! Facebook
 facebook.com###pagelet_ego_pane_w
