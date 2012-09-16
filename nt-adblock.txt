@@ -16,6 +16,9 @@ twitter.com##.wtf-module
 facebook.com###pagelet_ego_pane_w
 facebook.com###pagelet_chat
 
+!!! Wikipedia Site Notices
+wikipedia.org###siteNotice
+
 !!! Annoyances
 
 !!! Tynt Clipboard Hijacker
