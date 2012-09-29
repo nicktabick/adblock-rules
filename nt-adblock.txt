@@ -35,3 +35,7 @@ wolframalpha.com###butane
 
 !!! Facebook Likebox Plugin
 ||facebook.com/plugins/likebox*
+
+!!! Nrelate Related Articles
+||static.nrelate.com/*
+||api.nrelate.com/*
