@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 27 Sep 2012 0:00 UTC
+! Last modified: 29 Sep 2012 0:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Hg Repository: http://dev.twoslashes.com/adblock-rules
@@ -32,3 +32,6 @@ wolframalpha.com###butane
 
 !!! PunchTab Rewards System
 ||static.punchtab.com/*
+
+!!! Facebook Likebox Plugin
+||facebook.com/plugins/likebox*
