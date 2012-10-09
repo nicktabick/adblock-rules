@@ -22,6 +22,9 @@ wolframalpha.com###sponsor-ad
 wolframalpha.com###lightbox
 wolframalpha.com###butane
 
+!!! BitBucket Upsells
+bitbucket.org##section[id$="-upsell"]
+
 !!! Annoyances
 
 !!! Tynt Clipboard Hijacker
