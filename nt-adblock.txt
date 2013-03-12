@@ -12,7 +12,10 @@ twitter.com##.wtf-module
 !!! Facebook
 facebook.com###pagelet_ego_pane_w
 facebook.com###pagelet_chat
+
+!!! Facebook Birthday-Related Ads
 facebook.com##div[class*="_4-"]
+facebook.com##div._4_9d
 
 !!! Wikipedia Site Notices
 wikipedia.org###siteNotice
