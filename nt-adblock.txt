@@ -12,6 +12,7 @@ twitter.com##.wtf-module
 !!! Facebook
 facebook.com###pagelet_ego_pane_w
 facebook.com###pagelet_chat
+facebook.com##div[class*="_4-"]
 
 !!! Wikipedia Site Notices
 wikipedia.org###siteNotice
