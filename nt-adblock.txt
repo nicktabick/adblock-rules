@@ -28,6 +28,7 @@ wolframalpha.com###butane
 
 !!! BitBucket Upsells
 bitbucket.org##section[id$="-upsell"]
+bitbucket.org##section[id$="jira-issue-box"]
 
 !!! Annoyances
 
