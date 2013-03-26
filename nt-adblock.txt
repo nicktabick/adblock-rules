@@ -15,7 +15,7 @@ facebook.com###pagelet_chat
 
 !!! Facebook Birthday-Related Ads
 facebook.com##div[class*="_4-"]
-facebook.com##div._4_9d
+facebook.com##div[class*="_4_9"]
 
 !!! Wikipedia Site Notices
 wikipedia.org###siteNotice
