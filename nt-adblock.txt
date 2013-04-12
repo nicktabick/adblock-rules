@@ -37,6 +37,11 @@ sparknotes.com###mindHutContainer
 sparknotes.com###studyBreakContainer
 sparknotes.com###songza_widget
 
+!!! AlternativeTo.net Software Index
+! Note: Ads are removed by an EasyList rule;
+! this removes the message displayed if ads are hidden
+alternativeto.net##.blockReplace
+
 !!! Annoyances
 
 !!! Tynt Clipboard Hijacker
