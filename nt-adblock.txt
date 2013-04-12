@@ -42,6 +42,9 @@ sparknotes.com###songza_widget
 ! this removes the message displayed if ads are hidden
 alternativeto.net##.blockReplace
 
+!!! LinkedIn Upsells
+linkedin.com##div[class*="upsell"]
+
 !!! Annoyances
 
 !!! Tynt Clipboard Hijacker
