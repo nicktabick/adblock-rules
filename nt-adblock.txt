@@ -11,7 +11,7 @@ twitter.com##.wtf-module
 
 !!! Facebook
 facebook.com###pagelet_ego_pane_w
-facebook.com###pagelet_chat
+facebook.com###pagelet_dock
 
 !!! Facebook Birthday-Related Ads
 facebook.com##._52kx
