@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 5 May 2013 0:00 UTC
+! Last modified: 16 May 2013 0:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Hg Repository: http://dev.twoslashes.com/adblock-rules
@@ -14,8 +14,9 @@ facebook.com###pagelet_ego_pane_w
 facebook.com###pagelet_chat
 
 !!! Facebook Birthday-Related Ads
-facebook.com##div[class*="_4-"]
-facebook.com##div[class*="_4_9"]
+!facebook.com##div[class*="_4-"]
+!facebook.com##div[class*="_4_9"]
+facebook.com##._52kx
 
 !!! Wikipedia Site Notices
 wikipedia.org###siteNotice
