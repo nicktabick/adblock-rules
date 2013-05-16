@@ -14,9 +14,8 @@ facebook.com###pagelet_ego_pane_w
 facebook.com###pagelet_chat
 
 !!! Facebook Birthday-Related Ads
-!facebook.com##div[class*="_4-"]
-!facebook.com##div[class*="_4_9"]
 facebook.com##._52kx
+facebook.com##._52ky
 
 !!! Wikipedia Site Notices
 wikipedia.org###siteNotice
