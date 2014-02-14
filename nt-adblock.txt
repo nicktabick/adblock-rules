@@ -17,6 +17,9 @@ facebook.com###pagelet_dock
 facebook.com##._52kx
 facebook.com##._52ky
 
+!!! Facebook "Trending Topics"
+facebook.com##._5mym
+
 !!! Wikipedia Site Notices
 wikipedia.org###siteNotice
 
