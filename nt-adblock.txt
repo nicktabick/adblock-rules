@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 31 Aug 2013 0:00 UTC
+! Last modified: 14 Feb 2014 0:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Hg Repository: http://dev.twoslashes.com/adblock-rules
