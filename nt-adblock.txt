@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 18 Apr 2014 14:38 UTC
+! Last modified: 28 May 2014 20:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Hg Repository: http://dev.twoslashes.com/adblock-rules
@@ -81,3 +81,9 @@ linkedin.com##div[class*="upsell"]
 
 !!! Google Content Surveys
 ||survey.g.doubleclick.net/*
+
+!!! LiveChat
+||cdn.livechatinc.com/*
+
+!!! Olark
+||static.olark.com/*
