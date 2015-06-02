@@ -21,7 +21,7 @@ In order to use these rules, you'll need the appropriate browser plugin.
 Each browser's APB plugin is slightly different, but you should be able to add one of the following URLs (don't add both!) to AdBlock Plus as a custom filter subscription:
 
 * **Two Slashes:** <http://www.twoslashes.com/adblock/nt-adblock.txt> *(may be ahead of repository)*
-* **Latest Repository Contents:** <http://dev.twoslashes.com/adblock-rules/raw/default/nt-adblock.txt>
+* **Latest Repository Contents:** <http://bitbucket.org/nicktabick/adblock-rules/raw/default/nt-adblock.txt>
 
 ## Contributions
 

@@ -3,7 +3,7 @@
 ! Last modified: 28 May 2014 20:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
-! Hg Repository: http://dev.twoslashes.com/adblock-rules
+! Hg Repository: http://bitbucket.org/nicktabick/adblock-rules
 
 !!! Twitter
 twitter.com##.trends
