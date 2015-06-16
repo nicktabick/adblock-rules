@@ -87,3 +87,6 @@ linkedin.com##div[class*="upsell"]
 
 !!! Olark
 ||static.olark.com/*
+
+!!! Foresee
+||gateway.answerscloud.com/*
