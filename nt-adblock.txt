@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 07 Dec 2015 23:08 UTC
+! Last modified: 05 Apr 2016 18:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Hg Repository: http://bitbucket.org/nicktabick/adblock-rules
@@ -91,3 +91,8 @@ linkedin.com##div[class*="upsell"]
 
 !!! Foresee
 ||gateway.answerscloud.com/*
+
+!!! Wired Anti-AdBlock (via https://www.reddit.com/r/technology/comments/468jbm/wired_to_ad_blocker_users_pay_up_for_adfree_site/d05n81w)
+@@||assets.adobedtm.com^$domain=wired.com
+@@||wired.com^$generichide
+wired.com###veil
