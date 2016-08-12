@@ -8,7 +8,7 @@ You may find that these rules are overzealous, especially when it comes to thing
 
 My contributors and I are not responsible for any harm that may befall you from using these rules, including content mistakenly hidden by one of these rules.  If you believe that important content may be hidden accidentally, try disabling ABP completely for that page or site.
 
-These rules are (usually) developed and used in the latest Firefox nightly build.  If you find that you have problems with a rule on another platform, please report an issue so I can look into it.
+These rules are (usually) developed and used in the latest Firefox nightly build and/or Google Chrome, both on Windows.  If you find that you have problems with a rule (on any browser/platform), please report an issue so I can look into it.
 
 ## Usage
 
@@ -21,7 +21,10 @@ In order to use these rules, you'll need the appropriate browser plugin.
 Each browser's APB plugin is slightly different, but you should be able to add one of the following URLs (don't add both!) to AdBlock Plus as a custom filter subscription:
 
 * **Two Slashes:** <http://adblock.twoslashes.com/nt-adblock.txt>
-* **Latest Repository Contents:** <http://bitbucket.org/nicktabick/adblock-rules/raw/default/nt-adblock.txt>
+* **Latest Repository Contents:**
+	* Bitbucket: <http://bitbucket.org/nicktabick/adblock-rules/raw/default/nt-adblock.txt>
+	* GitHub: <https://raw.githubusercontent.com/nicktabick/adblock-rules/master/nt-adblock.txt>
+	* GitLab: <https://gitlab.com/nicktabick/adblock-rules/raw/master/nt-adblock.txt>
 
 ## Contributions
 
