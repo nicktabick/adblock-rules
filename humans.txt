@@ -1,0 +1,18 @@
+/* TEAM */
+	Nick Tabick
+	Site: http://www.twoslashes.com
+	Contact: http://www.twoslashes.com/contact/
+	Twitter: @NickTabick
+	Facebook: http://www.facebook.com/NickTabick
+	Google Plus: http://plus.google.com/+NickTabick
+	Location: Chicago, IL
+
+/* THANKS */
+	AdBlock Plus
+	uBlock
+
+/* SITE */
+	Language: English
+	Editor: Sublime Text
+	Powered By: Google App Engine, Coca-Cola
+	DVCS: Git
