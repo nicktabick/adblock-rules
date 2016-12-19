@@ -98,3 +98,7 @@ linkedin.com##div[class*="upsell"]
 @@||assets.adobedtm.com^$domain=wired.com
 @@||wired.com^$generichide
 wired.com###veil
+
+!!! ReadTheDocs
+readthedocs.io##.rst-pro
+readthedocs.io##.rst-pro-wrapper
