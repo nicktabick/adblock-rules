@@ -56,11 +56,6 @@ alternativeto.net##.blockReplace
 !!! LinkedIn Upsells
 linkedin.com##div[class*="upsell"]
 
-!!! 20SB (Twenty-Something Bloggers)
-20sb.net##.xg_module:nth-child(3)
-20sb.net##.xg_chat
-20sb.net##div[class^=xg_ad]
-
 !!! Annoyances
 
 !!! Tynt Clipboard Hijacker
