@@ -1,12 +1,15 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 20 Dec 2016 14:50 UTC
+! Last modified: 13 Jan 2017 02:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Git Repositories:
 !   https://bitbucket.org/nicktabick/adblock-rules
 !   https://github.com/nicktabick/adblock-rules
 !   https://gitlab.com/nicktabick/adblock-rules
+
+!!! Generic
+/wp-content/plugins/popupally/*
 
 !!! Twitter
 twitter.com##.trends
