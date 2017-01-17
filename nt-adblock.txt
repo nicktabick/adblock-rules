@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 13 Jan 2017 02:15 UTC
+! Last modified: 17 Jan 2017 14:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Git Repositories:
@@ -106,3 +106,7 @@ readthedocs.io##.rst-pro-wrapper
 
 !!! CNet
 cnet.com##.featuredVideo
+
+!!! Intercom
+||js.intercomcdn.com/*
+||widget.intercom.io/*
