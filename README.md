@@ -25,9 +25,9 @@ In order to use these rules, you'll need a compatibile browser plugin.
 	* [Chrome](https://adblockplus.org/en/chrome)
 	* [Opera](https://adblockplus.org/en/opera)
 
-Each browser's APB plugin is slightly different, but you should be able to add one of the following URLs (don't add both!) to AdBlock Plus as a custom filter subscription.
+Each browser and plugin is slightly different, but you should be able to add one of the following URLs (they have the same contents!) to your browser plugin as a custom filter subscription through the plugin's settings.
 
-* **Two Slashes:** <http://adblock.twoslashes.com/nt-adblock.txt>
+* **Two Slashes:** <https://adblock.twoslashes.com/nt-adblock.txt>
 * **Latest Repository Contents:**
 	* Bitbucket: <https://bitbucket.org/nicktabick/adblock-rules/raw/master/nt-adblock.txt>
 	* GitHub: <https://raw.githubusercontent.com/nicktabick/adblock-rules/master/nt-adblock.txt>
