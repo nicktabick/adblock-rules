@@ -60,6 +60,9 @@ alternativeto.net##.blockReplace
 !!! JSFiddle
 jsfiddle.net###keep-us-running
 
+!!! LinkedIn Chat
+linkedin.com##.msg-overlay-container
+
 !!! LinkedIn Upsells
 linkedin.com##div[class*="upsell"]
 
