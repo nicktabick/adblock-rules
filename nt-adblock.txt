@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 27 March 2018 02:30 UTC
+! Last modified: 22 June 2018 15:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Git Repositories:
@@ -134,3 +134,6 @@ cnet.com##.featuredVideo
 !!! Jetlore Personalization/Targeting
 ||api.jetlore.com/*
 ||assets.jetlore.com/*
+
+!!! Drift
+||js.driftt.com/*
