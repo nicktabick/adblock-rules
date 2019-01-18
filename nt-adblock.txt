@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: NT AdBlock List
-! Last modified: 22 June 2018 15:15 UTC
+! Last modified: 17 January 2019 19:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: http://www.twoslashes.com/
 ! Git Repositories:
@@ -137,3 +137,7 @@ cnet.com##.featuredVideo
 
 !!! Drift
 ||js.driftt.com/*
+
+!!! Ahoy! WordPress Marketing
+/wp-content/plugins/ahoy/*
+.ahoy-message
