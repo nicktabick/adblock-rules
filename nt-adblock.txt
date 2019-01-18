@@ -144,3 +144,9 @@ cnet.com##.featuredVideo
 
 !!! Holler
 /wp-content/plugins/holler*
+
+!!! Privy Marketing
+||privymktg.com/collect
+||api.privy.com/*
+||shopify.privy.com/*
+||assets.privy.com/*
