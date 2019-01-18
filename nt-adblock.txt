@@ -150,3 +150,9 @@ cnet.com##.featuredVideo
 ||api.privy.com/*
 ||shopify.privy.com/*
 ||assets.privy.com/*
+
+!!! Klaviyo
+||a.klaviyo.com/*
+||fast.a.klaviyo.com/*
+||static.klaviyo.com/*
+||klaviyo.com/media/js/public/klaviyo_subscribe.js
