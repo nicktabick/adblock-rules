@@ -141,3 +141,6 @@ cnet.com##.featuredVideo
 !!! Ahoy! WordPress Marketing
 /wp-content/plugins/ahoy/*
 .ahoy-message
+
+!!! Holler
+/wp-content/plugins/holler*
