@@ -2,7 +2,7 @@
 ! Title: NT AdBlock List
 ! Last modified: 12 December 2019 19:50 UTC
 ! Expires: 1 days (update frequency)
-! Homepage: http://www.twoslashes.com/
+! Homepage: https://www.twoslashes.com/
 ! Git Repositories:
 !   https://bitbucket.org/nicktabick/adblock-rules
 !   https://github.com/nicktabick/adblock-rules
